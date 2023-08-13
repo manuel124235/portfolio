@@ -1,0 +1,13 @@
+body{background-color:#c2c7ad;}
+main{background-color: red; height:1300px;margin:0px 20% 0px 20%;box-shadow: 0px 0px 20px black}
+article{background-color: rgb(219, 219, 245);height:1300px;width: 60%;display: inline;float:right;}
+aside{background-color: rgb(219, 215, 172);height: 1300px;width: 40%;display: inline;float: left;text-align:center;}
+#foto {height:max-content;width:max-content; margin:20px 100px 0px 60px;}
+#foto img {object-fit:cover;border-radius: 50%;height: 300px;width: 300px;box-shadow: 0px 0px 20px black}
+#foto img:hover{transform: scale(1.1);}
+#info {height:250px;;margin: 200px 0px 0px 0px;text-align: left;font-family:Arial, Helvetica, sans-serif}
+h1 {font-size: 80px;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-style: italic;}
+article{text-align:justify;}
+article h2 {font-size:35px;text-align: center;margin:40px}
+article p {font-size:30px;margin:20px 20px 20px 20px;}
+#info ul  li {font-weight: bolder;font-size: 20px;}
